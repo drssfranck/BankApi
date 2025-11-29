@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+env/
+venv/
+bankApi.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Data files
+data/*.csv
+
+# Docker
+*.log
