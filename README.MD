@@ -1,5 +1,5 @@
 # Construire le container
-docker build -t card-api .
+creer le fichier data.pkl dans le dossier src/app/data
 
-# Lancer le container
-docker run -p 8000:8000 card-api
+# Executer la commande 
+python src/app/data/generate_data.py
